@@ -7,3 +7,8 @@ Image preprocessing pipeline
 Deep learning model implementation
 Automated quality control support
 Real-time prediction capability
+
+progress:
+<img width="1675" height="708" alt="Screenshot 2026-04-15 162711" src="https://github.com/user-attachments/assets/4d165218-f239-41ec-b49e-5c2f425c9900" />
+<img width="1919" height="1079" alt="Screenshot 2026-04-15 150633" src="https://github.com/user-attachments/assets/28bc8a80-f444-4e3a-9b28-97a386f10e2d" />
+
